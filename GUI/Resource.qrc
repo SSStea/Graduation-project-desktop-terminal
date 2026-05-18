@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/efficiency.png</file>
+        <file>images/failed.png</file>
+        <file>images/reliability.png</file>
+        <file>images/time-consuming.png</file>
+        <file>images/totalmetric.png</file>
+        <file>images/verified.png</file>
+    </qresource>
+</RCC>
